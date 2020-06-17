@@ -39,7 +39,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:hint="Please Enter Password..."
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:textColorHint="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
